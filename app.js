@@ -7,9 +7,12 @@ function askCoding() {
 }
 askCoding();
 
+function askLearning() {
   var current = prompt( 'what are you currently learning?');
   alert("Lets hope I get as good at " + current + 'as you are! ');
   console.log( 'They are currently learning ' + current);
+}
+askLearning();
 
 
 
