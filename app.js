@@ -14,16 +14,16 @@ function askLearning() {
 }
 askLearning();
 
-
-
-
-alert('Hello');
-var answer = 'England';
-for( var i = 0; i < 4; i ++ ) {
-  var born = prompt( 'What country was I born in?' );
-  console.log('What country was I born?');
-  if (born === 'england')str.toUpperCase;  {
-    alert('You are correct!');
-    break;
+function askBorn() {
+  alert('Hello');
+  var answer = 'England';
+  for( var i = 0; i < 4; i ++ ) {
+    var born = prompt( 'What country was I born in?' );
+    console.log('What country was I born?');
+    if (born === 'england')str.toUpperCase;  {
+      alert('You are correct!');
+      break;
+    }
   }
 }
+askBorn();
