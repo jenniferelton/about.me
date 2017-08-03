@@ -1,5 +1,5 @@
 alert('Hello');
-var years = prompt('How many years have you been coding?');{
+var years = prompt('How many yeard have you been coding?');{
   console.log( 'They have been coding: ' + years );
   prompt( 'You have been coding for ' + years + '?');
 
