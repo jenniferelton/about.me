@@ -1,7 +1,7 @@
 alert('Hello');
-var years = prompt('How many yeard have you been coding?');{
-  console.log( 'They have been coding: ' + years );
-  prompt( 'You have been coding for ' + years + '?');
+var kids = prompt('How many kids do I have?');{
+  console.log( 'How many kids to I have?: ' +  kids );
+  prompt( ' ' + kids + '?');
 
   var current = prompt( 'what are you currently learning?');
   alert("Lets hope I get as good at " + current + 'as you are! ');
