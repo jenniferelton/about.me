@@ -1,3 +1,4 @@
+
 p.one {
    /* border-style:ridge;*/
    border: 2px solid black;
@@ -6,3 +7,33 @@ p.one {
 body{
 background-image:"low-tide.jpg";
 }
+=======
+*{
+    font-family: comic sans ms;
+    
+}
+head {
+    background-color:cadetblue;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50px; 
+    text-align: left; 
+    margin-top: 10px;
+}
+ul {
+    border-style: ridge;
+    border: 2px solid navy;
+    margin: 20px, 20px, 20px, 20px;
+
+}
+
+body {
+    background-position: center;
+    background-image: cover;
+    background-image: url ("img/crinkled paper.jpg");
+    background-attachment: fixed cover;
+    background-color: aqua;
+}
+
