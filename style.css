@@ -1,3 +1,13 @@
+
+p.one {
+   /* border-style:ridge;*/
+   border: 2px solid black;
+}
+  
+body{
+background-image:"low-tide.jpg";
+}
+=======
 *{
     font-family: comic sans ms;
     
@@ -26,3 +36,4 @@ body {
     background-attachment: fixed cover;
     background-color: aqua;
 }
+
