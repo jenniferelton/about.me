@@ -21,8 +21,8 @@ ul {
 
 body {
     background-position: center;
-    background-image: cover;
-    background-image: url ("img/crinkled paper.jpg");
+    background: cover;
+    background: url ("img/Abstract Smooth Vector Art.jpg");
     background-attachment: fixed cover;
     background-color: aqua;
 }
